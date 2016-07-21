@@ -7,4 +7,4 @@
 ### This project specific is for 
 ### [Valens] (http://www.valens.com/) - where i work as a contructore.
 ### This project is a part of receiving my first degree at software engineering (B.sc) 
-### at Azrieli - College of Engineering Jerusalem.
+### at [Azrieli] (http://www.jce.ac.il/) - College of Engineering Jerusalem.
